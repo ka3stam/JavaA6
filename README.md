@@ -7,3 +7,5 @@ a perfect number is a number that is half the sum of all of its positive divisor
 
 This definition is ancient, appearing as early as Euclid's Elements (VII.22) where it is called τέλειος ἀριθμός 
 (perfect, ideal, or complete number). 
+
+NewJApplet.java finds the perfect numbers between 2 and 100000. It also shows their proper divisors.
